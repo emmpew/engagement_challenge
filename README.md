@@ -1,4 +1,4 @@
-# User Engament Challenge
+# User Engagement Challenge
 
 The data is available as two attached CSV files:
  
